@@ -1,0 +1,22 @@
+{
+  "datos_docente": [
+    {
+      "id": "0",
+      "correo": "admin",
+      "contrasena": "admin1234",
+      "nombre": "Admin",
+      "apellido": "Paquito",
+      "rut": "11111111-1",
+      "fotoPerfil": "assets/img/user.jpg"
+    },
+    {
+      "id": "1",
+      "correo": "profDocente@profesor.duoc.cl",
+      "contrasena": "prof1234",
+      "nombre": "Profesor",
+      "apellido": "Docente",
+      "rut": "12345678-9",
+      "fotoPerfil": "assets/img/user.jpg"
+    }
+  ]
+}
